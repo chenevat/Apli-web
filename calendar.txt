@@ -1,10 +1,1 @@
-Calendar
-Arnaud Chenevat, chenev_a, arnaud.chenevat@epitech.eu
-Frederic Dagany, dagany_f, frederic.dagany@epitech.eu
-Application web d'un calendrier interactif. Ce dernier permettra, après authentification, de pouvoir avoir un calendrier complet. Ce calendrier permettra de fixer ses rendez-vous tout en étant alerter de ces derniers. Une zone dites mémo servira de pense-bête ainsi que de notes pour l'utilisateur.
-Possibilité de peupler ce calendrier avec les dates souhaitées
-Possibilité d'afficher des évènements stockés dans une base de données
-Mise en avant par une alerte des événements marqués
-GIT ????????
-Angular
-Autre -> MySQL
+test
